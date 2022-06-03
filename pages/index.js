@@ -9,7 +9,7 @@ export default function Home() {
         <title>Practice Next.js</title>
       </Head>
       <Link href="/about">About</Link>
-      <h1>Hello World</h1>
+      <h1 className={styles.homePageTitle}>Hello World</h1>
     </div>
   );
 }
