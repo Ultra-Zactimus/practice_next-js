@@ -1,9 +1,9 @@
 import Link from 'next/link';
 import styles from '../styles/Navbar.module.css';
 
-const Navbar = () => {
+const NavBar = () => {
   return (
-  <div className={styles.Navbar}>
+  <div className={styles.navbar}>
     <div className={styles.links}>
       <Link href="/">Home</Link>
       <Link href="/about">About</Link>
@@ -13,4 +13,4 @@ const Navbar = () => {
   );
 }
 
-export default Navbar;
+export default NavBar;
