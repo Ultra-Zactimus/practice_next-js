@@ -1,3 +1,25 @@
+# _Practicing Next.js_
+
+### Authored by Zachary Green
+
+### _This project is just a practice template for exploring the features of Next.js in React and getting familiar with how it works_
+
+---
+## Technologies Used
+* JavaScript
+* HTML
+* React
+* Next.js
+* NPM
+* Git
+* CSS
+---
+## Known Bugs
+
+### _There are no known bugs at this time_
+---
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
